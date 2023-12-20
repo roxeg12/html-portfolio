@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    
+<h1>Roxana Gutierrez</h1>
+<a href="./Contact Me">Contact Information</a>
+
+
+<h2>Education:</h2>
+<h3>Rice University</h3> 
+<p>B.A. in Computer Science and Cognitive Sciences, Expected Graduation: May 2026</p>
+<h4>Relevant Coursework:</h4>
+<p>Computational Thinking, Cognitive Psycology, Algorithmic Thinking and Discrete Mathematics</p>
+
+<h2>Experience</h2>
+<h3>Software Developer, Neurotech@Rice; October 2023 - Present</h3>
+<ul>
+    <li>Pre-process and analyze large data sets to train a machine learning model to interpret EEG readings</li>
+    <li>Design and write code alongside other Neurotech software subteam members to develop a program
+        for an EEG controlled drone</li>
+    <li>Collaborate with the hardware team to implement the program on a working drone</li>
+
+</ul>
+
+<h3>Whataburger Team Member, Port Isabel, TX; June 2023 - August 2023</h3>
+<ul>
+    <li>Employee of the Month, July 2023</li>
+    <li>Communicated with coworkers and management to collaboratively maintain a high quality of
+        customer service, to continue expanding and preserving a loyal customer base</li>
+    <li>Took initiative by finding tasks to assist other stations when the drive-thru was not busy</li>
+    <li>Quickly learned and adapted to workplace policies, norms, and tools, including POS system,
+        inventory organization, safe food measures, etc.</li>
+</ul>
+
+<h2>Skills</h2>
+<h3>Computer:</h3>
+<p>Python, C, Microsoft Office Suite (Word, Powerpoint, Excel)</p>
+<h3>Language:</h3>
+<p>Fluent in English, Conversational in Spanish</p>
+
+<footer>
+    <p>Roxana Gutierrez</p>
+</footer>
+</body>
+
+
+</html>
